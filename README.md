@@ -1,3 +1,3 @@
 # hello-world
 
-lets start with a witty introduction
+let's start with a witty introduction
